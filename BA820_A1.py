@@ -153,3 +153,8 @@ plt.title("Silohouette Score")
 sns.lineplot(KS, silo)
 
 plt.show()
+
+for i, s in enumerate(silo[:10]):
+      print(i+2,s)
+
+  # looks like 4 is a good number
