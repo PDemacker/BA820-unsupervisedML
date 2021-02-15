@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1j9JBzXui12VSlHw_j39O7u05p8QCVDH9
 """
 
-! pip install scikit-plot
 #imports
 import numpy as np
 import pandas as pd
